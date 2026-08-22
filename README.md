@@ -7,8 +7,8 @@ Practical data analysis projects developed during sprints (1–6).
 | :---: | :--- | :--- | :---: |
 | **01** | [Python Basics](sprint-01-python-basics-1/python-basics.ipynb) | Python | Completed |
 | **02** | [Python Basics 2](sprint-02-python-basics-2/python-basics-2.ipynb) | Python, Pandas | Completed |
-| **03** | [Data Manipulation](sprint-03-data-manipulation/data-manipulation.ipynb) | Data Cleaning, Matplotlib | Uncompleted |
-| **04** | [Statistical Data Analysis](sprint-04-statistical-data-analysis/statistical-data-analysis.ipynb) | Exploratory Data Analysis | Uncompleted |
+| **03** | [Data Manipulation](sprint-03-data-manipulation/data-manipulation.ipynb) | Data Cleaning, Matplotlib | Completed |
+| **04** | [Statistical Data Analysis](sprint-04-statistical-data-analysis/statistical-data-analysis.ipynb) | Exploratory Data Analysis | Completed |
 | **05** | [Software Development](sprint-05-software-development/notebooks/EDA.ipynb) | Python, Pandas, Plotly, Render | Completed |
 | **06** | [Integrated Project 1](sprint-06-integrated-project-1/integrated-project-1.ipynb) | Exploratory Data Analysis | Uncompleted |
 
